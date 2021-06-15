@@ -187,6 +187,11 @@ h5 {
   margin: 66px 0 22px 0;
 }
 
+.primary-nav {
+  font-size: 14px;
+  font-weight: 400;
+}
+
 /*
   ========================================
   Primary footer
